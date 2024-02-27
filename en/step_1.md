@@ -10,24 +10,60 @@ Click on the icon you would like to add. This will open a modal with instruction
 + Include Material Icons Font in HTML:
 Add the following link tag in the <head> section of your HTML file to include the Material Icons font. This link will import the Material Icons font from the Google Fonts API.
 
-    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+--- code ---
+---
+language: html
+filename: index.html
+line_numbers: true
+---
+
+    <head>
+      <meta charset="UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <link rel="stylesheet" href="style.css">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    </head>
+  
+--- /code ---
 
 + Use Material Icons in HTML:
 You can then use Material Icons in your HTML by adding the appropriate class to an HTML element. For example:
 
-    <span class="material-symbols-outlined">home</span>
+--- code ---
+---
+language: html
+filename: index.html
+line_numbers: true
+---
 
+    <body>
+      <div class="toggle-container">
+        <span class="material-symbols-outlined">home</span>
+      </div>
+    </body>
+  
+--- /code ---
+   
 + CSS Styling:
 You can apply the icon’s custom styles to the CSS stylesheet of your project and personalise it to your preference:
-    <style>
-    .material-symbols-outlined {
+
+--- code ---
+---
+language: css
+filename: style.css
+line_numbers: true
+---
+
+.material-symbols-outlined {
       font-variation-settings:
       'FILL' 0,
       'wght' 400,
       'GRAD' 0,
       'opsz' 24
-    }
-    </style>
+}
+  
+--- /code ---
 
 Testing:
 Run your project to verify that the Material Icons are displayed correctly. If everything is set up properly, you should see the icons styled according to the provided classes.
