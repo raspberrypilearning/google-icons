@@ -1,59 +1,33 @@
-## Introduction
+Google Material Icons are a set of customisable, vector icons designed and maintained by Google. They are widely used in web and mobile app development to make the visual appeal of user interfaces better.
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+Open [fonts.google.com](https://fonts.google.com/icons){:target="_blank"}. The link will open in a new tab. 
 
-### What you will make
+![The Google Fonts icons page with various icons and the search bar showing.](images/google-icons.png)
+You can search for specific icons on the website. The website provides an extensive library of icons, each with a unique name. You can find icons suitable for their project by browsing or using the search functionality on the site.
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+Click on the icon you would like to add. This will open a modal with instructions on how to add the icon to your project. ![The Google Fonts icons page with the home icon selected. There is an instructions panel open, showing how to add the icon to a project.](images/google-selectedicon.png)
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
++ Include Material Icons Font in HTML:
+Add the following link tag in the <head> section of your HTML file to include the Material Icons font. This link will import the Material Icons font from the Google Fonts API.
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
++ Use Material Icons in HTML:
+You can then use Material Icons in your HTML by adding the appropriate class to an HTML element. For example:
 
-+ A computer or tablet capable of running Scratch 3
+    <span class="material-symbols-outlined">home</span>
 
-### Software
++ CSS Styling:
+You can apply the icon’s custom styles to the CSS stylesheet of your project and personalise it to your preference:
+    <style>
+    .material-symbols-outlined {
+      font-variation-settings:
+      'FILL' 0,
+      'wght' 400,
+      'GRAD' 0,
+      'opsz' 24
+    }
+    </style>
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+Testing:
+Run your project to verify that the Material Icons are displayed correctly. If everything is set up properly, you should see the icons styled according to the provided classes.
