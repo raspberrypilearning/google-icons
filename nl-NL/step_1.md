@@ -1,16 +1,16 @@
 Google Material Icons zijn een reeks aanpasbare vectorpictogrammen die zijn ontworpen en onderhouden door Google. Ze worden veel gebruikt bij de ontwikkeling van web- en mobiele apps om de visuele aantrekkelijkheid van gebruikersinterfaces te verbeteren.
 
-Open [fonts.google.com](https://fonts.google.com/icons/){:target="_blank"}. The link will open in a new tab.
+Open [fonts.google.com](https://fonts.google.com/icons/){:target="_blank"}. De link wordt geopend in een nieuw tabblad.
 
-![The Google Fonts icons page with various icons and the search bar showing.](images/google-icons.png)
+![De Google Fonts-pictogrammen pagina met verschillende pictogrammen en de zoekbalk die wordt weergegeven.](images/google-icons.png)
 
-You can search for specific icons on the website. The website provides an extensive library of icons, each with a unique name. You can find icons suitable for their project by browsing or using the search functionality on the site.
+Je kunt op de website naar specifieke pictogrammen zoeken. De website biedt een uitgebreide bibliotheek met pictogrammen, elk met een unieke naam. Je kunt pictogrammen vinden die geschikt zijn voor jouw project door de zoekfunctie op de site te bekijken of te gebruiken.
 
-Click on the icon you would like to add. This will open a modal with instructions on how to add the icon to your project. ![The Google Fonts icons page with the home icon selected. There is an instructions panel open, showing how to add the icon to a project.](images/google-selectedicon.png)
+Klik op het pictogram dat je wil toevoegen. Er wordt een extra venster geopend met instructies over hoe je het pictogram aan jouw project kunt toevoegen. ![De Google Fonts pictogrammen pagina met het home icoon geselecteerd. Er is een instructievenster geopend, waarin wordt getoond hoe je het pictogram aan een project toevoegt.](images/google-selectedicon.png)
 
-### Include Material Icons Font in HTML
+### Materials Icon Font opnemen in HTML
 
-Add the `<link>` element in the `<head>` section of your HTML file to include the Material Icons font. This link will import the Material Icons font from the Google Fonts API.
+Voeg het element `<link>` toe aan de sectie `<head>` van je HTML-bestand om het lettertype Material Icons op te nemen. Met deze link importeer je het Material Icons-lettertype uit de Google Fonts API.
 
 ## --- code ---
 
@@ -31,11 +31,11 @@ line_numbers: true
 
 \--- /code ---
 
-### Use Material Icons in HTML
+### Material Icons gebruiken in HTML
 
-You can then use Material Icons in your HTML by adding the appropriate class to an HTML element.
+Vervolgens kun je Material Icons in je HTML gebruiken door de juiste klasse aan een HTML element toe te voegen.
 
-For example:
+Bijvoorbeeld:
 
 ## --- code ---
 
@@ -56,7 +56,7 @@ line_numbers: true
 
 ### CSS Styling
 
-You can apply the icon’s custom styles to the CSS stylesheet of your project and personalise it to your preference.
+Je kunt de aangepaste stijl van het pictogram toepassen op het CSS-stijlblad van je project en het personaliseren naar je eigen voorkeur.
 
 ## --- code ---
 
@@ -75,6 +75,6 @@ font-variation-settings:
 
 \--- /code ---
 
-### Testing
+### Testen
 
-Run your project to verify that the Material Icons are displayed correctly. If everything is set up properly, you should see the icons styled according to the provided classes.
+Voer je project uit om na te gaan of de Material Icons correct worden weergegeven. Als alles goed is ingesteld, zie je dat de pictogrammen zijn opgemaakt volgens de opgegeven klassen.
