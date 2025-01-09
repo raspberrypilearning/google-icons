@@ -1,6 +1,6 @@
-Google Material Icons are a set of customisable, vector icons designed and maintained by Google. They are widely used in web and mobile app development to make the visual appeal of user interfaces better.
+Google Material Icons zijn een reeks aanpasbare vectorpictogrammen die zijn ontworpen en onderhouden door Google. Ze worden veel gebruikt bij de ontwikkeling van web- en mobiele apps om de visuele aantrekkelijkheid van gebruikersinterfaces te verbeteren.
 
-Open [fonts.google.com](https://fonts.google.com/icons){:target="_blank"}. The link will open in a new tab.
+Open [fonts.google.com](https://fonts.google.com/icons/){:target="_blank"}. The link will open in a new tab.
 
 ![The Google Fonts icons page with various icons and the search bar showing.](images/google-icons.png)
 
