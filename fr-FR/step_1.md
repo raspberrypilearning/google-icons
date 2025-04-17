@@ -1,16 +1,16 @@
-Google Material Icons are a set of customisable, vector icons designed and maintained by Google. They are widely used in web and mobile app development to make the visual appeal of user interfaces better.
+Les icônes Google Material sont un ensemble d'icônes vectorielles personnalisables conçues et mises à jour par Google. Elles sont largement utilisées dans le développement d'applications web et mobiles pour améliorer l'attrait visuel des interfaces utilisateur.
 
-Open [fonts.google.com](https://fonts.google.com/icons){:target="_blank"}. The link will open in a new tab.
+Ouvre [fonts.google.com](https://fonts.google.com/icons){:target="_blank"}. Le lien s'ouvrira dans un nouvel onglet.
 
-![The Google Fonts icons page with various icons and the search bar showing.](images/google-icons.png)
+![La page des icônes de Google Fonts avec diverses icônes et la barre de recherche affichée.](images/google-icons.png)
 
-You can search for specific icons on the website. The website provides an extensive library of icons, each with a unique name. You can find icons suitable for their project by browsing or using the search functionality on the site.
+Tu peux rechercher des icônes spécifiques sur le site web. Le site web fournit une vaste bibliothèque d'icônes, chacune avec un nom unique. Tu peux trouver des icônes adaptées à leur projet en naviguant ou en utilisant la fonctionnalité de recherche sur le site.
 
-Click on the icon you would like to add. This will open a modal with instructions on how to add the icon to your project. ![The Google Fonts icons page with the home icon selected. There is an instructions panel open, showing how to add the icon to a project.](images/google-selectedicon.png)
+Clique sur l'icône que tu souhaites ajouter. Cela ouvrira une fenêtre modale avec des instructions sur la façon d'ajouter l'icône à ton projet. ![La page d'icônes Google Fonts avec l'icône d'accueil sélectionnée. Il y a un panneau d'instructions ouvert, montrant comment ajouter l'icône à un projet.](images/google-selectedicon.png)
 
-### Include Material Icons Font in HTML
+### Inclure la police des icônes Material en HTML
 
-Add the `<link>` element in the `<head>` section of your HTML file to include the Material Icons font. This link will import the Material Icons font from the Google Fonts API.
+Ajoute l'élément `<link>` dans la section `<head>` de ton fichier HTML pour inclure la police des icônes Material. Ce lien importera la police des icônes Material depuis l'API Google Fonts.
 
 ## --- code ---
 
@@ -31,11 +31,11 @@ line_numbers: true
 
 \--- /code ---
 
-### Use Material Icons in HTML
+### Utiliser les icônes Material en HTML
 
-You can then use Material Icons in your HTML by adding the appropriate class to an HTML element.
+Tu peux ensuite utiliser les icônes Material dans ton HTML en ajoutant la classe appropriée à un élément HTML.
 
-For example:
+Par exemple :
 
 ## --- code ---
 
@@ -54,9 +54,9 @@ line_numbers: true
 
 \--- /code ---
 
-### CSS Styling
+### Style CSS
 
-You can apply the icon’s custom styles to the CSS stylesheet of your project and personalise it to your preference.
+Tu peux appliquer les styles personnalisés de l’icône à la feuille de style CSS de ton projet et la personnaliser selon tes préférences.
 
 ## --- code ---
 
@@ -75,6 +75,6 @@ font-variation-settings:
 
 \--- /code ---
 
-### Testing
+### Test
 
-Run your project to verify that the Material Icons are displayed correctly. If everything is set up properly, you should see the icons styled according to the provided classes.
+Exécute ton projet pour vérifier que les icônes Material sont affichées correctement. Si tout est correctement configuré, tu devrais voir les icônes stylisées en fonction des classes fournies.
