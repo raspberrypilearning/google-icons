@@ -4,9 +4,9 @@ Open [fonts.google.com](https://fonts.google.com/icons/){:target="_blank"}. De l
 
 ![De Google Fonts-pictogrammen pagina met verschillende pictogrammen en de zoekbalk die wordt weergegeven.](images/google-icons.png)
 
-Je kunt op de website naar specifieke pictogrammen zoeken. De website biedt een uitgebreide bibliotheek met pictogrammen, elk met een unieke naam. Je kunt pictogrammen vinden die geschikt zijn voor jouw project door de zoekfunctie op de site te bekijken of te gebruiken.
+Je kunt op de website naar specifieke pictogrammen zoeken. De website biedt een uitgebreide bibliotheek met pictogrammen, elk met een unieke naam. You can find icons suitable for your project by browsing or using the search functionality on the site.
 
-Klik op het pictogram dat je wil toevoegen. Er wordt een extra venster geopend met instructies over hoe je het pictogram aan jouw project kunt toevoegen. ![De Google Fonts pictogrammen pagina met het home icoon geselecteerd. Er is een instructievenster geopend, waarin wordt getoond hoe je het pictogram aan een project toevoegt.](images/google-selectedicon.png)
+Klik op het pictogram dat je wil toevoegen. This will open some instructions on how to add the icon to your project. ![De Google Fonts pictogrammen pagina met het home icoon geselecteerd. Er is een instructievenster geopend, waarin wordt getoond hoe je het pictogram aan een project toevoegt.](images/google-selectedicon.png)
 
 ### Materials Icon Font opnemen in HTML
 
@@ -54,7 +54,7 @@ line_numbers: true
 
 \--- /code ---
 
-### CSS Styling
+### CSS styling
 
 Je kunt de aangepaste stijl van het pictogram toepassen op het CSS-stijlblad van je project en het personaliseren naar je eigen voorkeur.
 
