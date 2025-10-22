@@ -4,9 +4,9 @@ Ouvre [fonts.google.com](https://fonts.google.com/icons){:target="_blank"}. Le l
 
 ![La page des icônes de Google Fonts avec diverses icônes et la barre de recherche affichée.](images/google-icons.png)
 
-Tu peux rechercher des icônes spécifiques sur le site web. Le site web fournit une vaste bibliothèque d'icônes, chacune avec un nom unique. You can find icons suitable for your project by browsing or using the search functionality on the site.
+Tu peux rechercher des icônes spécifiques sur le site web. Le site web fournit une vaste bibliothèque d'icônes, chacune avec un nom unique. Tu peux trouver des icônes adaptées à leur projet en naviguant ou en utilisant la fonctionnalité de recherche sur le site.
 
-Clique sur l'icône que tu souhaites ajouter. This will open some instructions on how to add the icon to your project. ![La page d'icônes Google Fonts avec l'icône d'accueil sélectionnée. Il y a un panneau d'instructions ouvert, montrant comment ajouter l'icône à un projet.](images/google-selectedicon.png)
+Clique sur l'icône que tu souhaites ajouter. Il y a un panneau d'instructions ouvert, montrant comment ajouter l'icône à un projet.](images/google-selectedicon.png) ![La page d'icônes Google Fonts avec l'icône d'accueil sélectionnée. Il y a un panneau d'instructions ouvert, montrant comment ajouter l'icône à un projet.](images/google-selectedicon.png)
 
 ### Inclure la police des icônes Material en HTML
 
@@ -54,7 +54,7 @@ line_numbers: true
 
 \--- /code ---
 
-### CSS styling
+### Style CSS
 
 Tu peux appliquer les styles personnalisés de l’icône à la feuille de style CSS de ton projet et la personnaliser selon tes préférences.
 
